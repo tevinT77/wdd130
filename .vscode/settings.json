@@ -5,7 +5,7 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.defaultFormatter": "vscode.html-language-features",
-  "editor.minimap.enabled": false,
+  "editor.minimap.enabled": true,
   "editor.linkedEditing": true,
   "editor.quickSuggestions": {
     "comments": "off",
@@ -57,5 +57,16 @@
   "chat.includeReferencedInstructions": true,
   "chat.useAgentsMdFile": true,
   // limit Intellisense help in the terminal
-  "terminal.integrated.initialHint": false
+  "terminal.integrated.initialHint": false,
+  "cSpell.words": [
+    "adipisicing",
+    "amet",
+    "consectetur",
+    "d'Ivoire",
+    "dolorem",
+    "elit",
+    "Lukwago",
+    "Porro",
+    "Tevin"
+  ]
 }
